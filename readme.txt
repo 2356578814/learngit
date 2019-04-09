@@ -1,6 +1,1 @@
-qwertytsadsadsad
-dsadsa
-
-DSAdSA
-dSA
-ds
+this is Git readme.txt
